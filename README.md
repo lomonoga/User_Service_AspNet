@@ -1,4 +1,4 @@
-# Test task of ASP.NET to Artsofte on Backend-development
+# Test task of ASP.NET
 
 ## :zap: Completed a test task for the API :zap:
 
@@ -11,7 +11,5 @@
 :white_check_mark: Logout Users
 
 :white_check_mark: Get Info Users
-
-### Source Test Task: https://github.com/Artsofte-Inc/test-back/blob/main/README.md
 
 # Lomonoga
